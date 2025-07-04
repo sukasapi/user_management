@@ -80,7 +80,7 @@ Sistem manajemen user modern berbasis Laravel 12 & Filament. Mendukung RBAC, men
 
 ## Database
 - feel free contact me for the database by send email to angganteng@gmail.com -
----
+- or **just run seeder** -
 
 ## Lisensi
 MIT — Bebas digunakan dan dikembangkan.
