@@ -5,10 +5,10 @@ Sistem manajemen user modern berbasis Laravel 12 & Filament. Mendukung RBAC, men
 
 ---
 ## Author
-- ** Author ** : Kusuma Dewangga (@sukasapi)
-- ** Date Create** : 08.11.2024
-- ** Git Date ** : 04.07.2025
-- ** Site ** : kerjabareng.my.id
+- **Author** : Kusuma Dewangga (@sukasapi)
+- **Date Create** : 08.11.2024
+- **Git Date** : 04.07.2025
+- **Site** : kerjabareng.my.id
 ## Fitur Utama
 - **Landing Page**: Halaman depan modern, responsif, dengan menu, banner, about, portofolio, artikel, dan footer.
 - **Panel Admin Filament**: UI admin powerful, responsif (web/tablet/mobile), berbasis Blade & Tailwind.
