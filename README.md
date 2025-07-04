@@ -77,6 +77,9 @@ Sistem manajemen user modern berbasis Laravel 12 & Filament. Mendukung RBAC, men
 - Semua input tervalidasi dan aman dari XSS/CSRF.
 - Audit trail otomatis aktif untuk semua aktivitas user.
 
+
+## Database
+-feel free contact me for the database @angganteng@gmail.com
 ---
 
 ## Lisensi
